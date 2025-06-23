@@ -1,0 +1,16 @@
+{
+    "name": "alimustapha-portfolio",
+    "version": "1.0.0",
+    "description": "My personal web page",
+    "main": "index.html",
+    "scripts": {
+      "start": "http-server"
+    },
+    "keywords": [],
+    "author": "Your Name",
+    "license": "MIT",
+    "dependencies": {
+      "http-server": "^0.12.3"
+    }
+  }
+  
